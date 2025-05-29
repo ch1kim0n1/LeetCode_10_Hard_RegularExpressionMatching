@@ -1,2 +1,5 @@
 # LeetCode_10_Hard_RegularExpressionMatching
-LeetCode - 10 - Hard - Regular Expression Matching
+
+## Result No. 1
+
+![image](https://github.com/user-attachments/assets/28121950-0936-413d-932a-4f56f9cf0a5a)
